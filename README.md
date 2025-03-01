@@ -2,14 +2,14 @@
 
 A simple Django-based application for managing restaurant reservations, displaying the menu, and allowing customers to book a table online. This project is part of a learning exercise from the Meta Certification course.
 
-#Features
+# Features #
 Home Page: Welcome page of the restaurant.
 About Page: Information about the restaurant.
 Booking System: Users can make reservations by filling out a booking form.
 Menu: Displays a list of available menu items.
 Menu Details: Displays individual menu item details when selected.
 
-__Installation__
+# Installation #
 To run this project locally, follow these steps:
 
 Step 1: Set up a Virtual Environment
@@ -41,18 +41,18 @@ Start the Django development server:
 python manage.py runserver
 You can now access the application by visiting http://127.0.0.1:8000 in your web browser.
 
-__Usage__
+# Usage #
 Home Page: Displays the homepage with a simple welcome message.
 About Page: Displays information about the restaurant.
 Book a Table: Navigate to the booking page and fill out the form to make a reservation.
 Menu: View the list of menu items and select an item for more details.
 
-__Dependencies__
+# Dependencies #
 Django: A Python web framework used to build the application.
 mysqlclient: MySQL database connector for Django.
 Python: The programming language used to develop the application.
 
-__Author__
+# Author #
 This project was an individual project created during the Meta Certification course as part of a learning exercise.
 
 __License__
